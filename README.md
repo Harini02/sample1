@@ -1,4 +1,9 @@
 # sample1
 getting started with github
-Github helps in version management
-Its new to work in github
+<html>
+<body>
+First name: <input type="text" name="fname"><br>
+  Last name: <input type="text" name="lname"><br>
+  <input type="submit" value="Submit">
+  </body>
+  </html>
